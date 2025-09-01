@@ -67,7 +67,7 @@ A detailed write-up will be added to Medium in the future, expanding on the anal
 Copyright (c) 2025 Omotayo Alexander Olanusi. All rights reserved. (Add an appropriate open-source license, e.g., MIT, if desired.)
 
 ## Contact
-For questions or collaboration, reach out via GitHub or email (if provided).
+For questions or collaboration, reach out via GitHub or my social media link.
 
 ---
 
